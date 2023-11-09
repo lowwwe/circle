@@ -3,7 +3,7 @@
 int main()
 {
 
-	std::cout << "pete is cool";
+	std::cout << "pete is cooler";
 	std::system("pause");
 	return 2;
 }
